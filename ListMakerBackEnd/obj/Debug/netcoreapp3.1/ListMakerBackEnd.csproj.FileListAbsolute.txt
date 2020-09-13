@@ -1,0 +1,9 @@
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\bin\Debug\netcoreapp3.1\ListMakerBackEnd.deps.json
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\bin\Debug\netcoreapp3.1\ListMakerBackEnd.dll
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\bin\Debug\netcoreapp3.1\ListMakerBackEnd.pdb
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.csprojAssemblyReference.cache
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.AssemblyInfoInputs.cache
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.AssemblyInfo.cs
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.dll
+C:\Users\phdes\source\repos\ListMaker\ListMakerBackEnd\obj\Debug\netcoreapp3.1\ListMakerBackEnd.pdb
